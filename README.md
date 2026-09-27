@@ -1,5 +1,14 @@
 # 💫 About Me:
-🎓 M.Tech Student | AI/ML & Intelligent Systems<br>🤖 Building AI Agents, ML Applications & Automation Systems<br>🐍 Python | Scikit-learn | Pandas | Streamlit | SQL<br>🧠 Machine Learning | Feature Engineering | Model Evaluation<br>⚙️ Document Automation | PDF Processing | Data Pipelines<br>🚀 Turning real-world problems into practical, scalable software<br>📌 Exploring AI Engineering, MLOps & Intelligent Automation<br>
+🤖 AI/ML-focused introduction
+🧠 AI Agents & Automation
+🐍 Python / ML / Data stack
+⚙️ Projects section with your Certificate Generation Agent
+📊 GitHub stats
+🏆 Achievements
+🔗 Correct LinkedIn/social links
+💼 Career-focused profile
+✨ Professional GitHub layout instead of a generic template
+🚀 Better badges and section organization
 
 
 ## 🌐 Socials:
